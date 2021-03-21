@@ -1,1 +1,3 @@
-console.run 'hello'
+console.run 'heiskikky
+	xsxsxsxlo'
+test
